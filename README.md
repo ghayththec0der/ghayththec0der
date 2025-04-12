@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ghayth Diouri</h1>
 <h3 align="center">A passionate full-stack web developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **Staget.tn**
+- 🔭 I’m currently working on **E-tabib**
 
 - 🌱 I’m currently learning **React native, Laravel, Spring Boot**
 
