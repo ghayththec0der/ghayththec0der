@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **E-tabib**
 
-- 🌱 I’m currently learning **React native, Laravel, Spring Boot**
+- 🌱 I’m currently workiing with **React native, Laravel, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ghayththec0der](https://github.com/ghayththec0der)
 
